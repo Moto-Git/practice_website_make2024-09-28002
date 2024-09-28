@@ -1,0 +1,116 @@
+li {
+  list-style-position: inside;
+}
+
+.backgound_color_all {
+  background-color: #f4f9ff;
+  height: 1370px;
+}
+
+.mainsitewidth {
+  width: 1000px;
+  margin: 0 auto;
+}
+
+.header {
+  height: 93px;
+}
+.header img {
+  margin: 60px 0 0;
+  width: 160px;
+}
+
+.hero_img_s img {
+  margin: 0 auto;
+}
+
+.sitetext_s {
+  background-color: white;
+  margin: 0 auto;
+  width: 1000px;
+  height: 282px;
+  margin-top: 60px;
+  padding: 30px 200px;
+}
+.sitetext_s ol li {
+  font-size: 14px;
+  line-height: 40px;
+  margin: 1px 3px;
+}
+
+.sitetext_s {
+  background-color: white;
+  margin: 0 auto;
+  width: 1000px;
+  height: 282px;
+  margin-top: 60px;
+  padding: 30px 200px;
+}
+.sitetext_s ol li {
+  font-size: 14px;
+  line-height: 40px;
+  margin: 1px 3px;
+}
+
+.detail {
+  margin-top: 72px;
+  width: 600px;
+  margin: 60px auto;
+}
+.detail h3 {
+  letter-spacing: -0.5px;
+}
+.detail .detail_sbs_2 {
+  display: flex;
+}
+.detail .detail_sbs_2 .detail_img_s {
+  width: 300px;
+}
+.detail .detail_sbs_2 .detail_img_s img {
+  width: 270px;
+  height: auto;
+  margin-top: 8px;
+}
+.detail .detail_sbs_2 .detail_text {
+  width: 400px;
+  margin-left: 60px;
+}
+.detail .detail_sbs_2 .detail_text .detailtitle {
+  padding-top: 25px;
+}
+.detail .detail_sbs_2 .detail_text .detailtitle h3 {
+  padding-left: 15px;
+  padding-bottom: 35px;
+  letter-spacing: -0.7px;
+  border-bottom: 1px solid black;
+}
+.detail .detail_sbs_2 .detail_text .detailprofile {
+  border-bottom: 1px solid black;
+  padding: 16px 0;
+}
+.detail .detail_sbs_2 .detail_text .detailprofile .detailprofile_sbs {
+  display: flex;
+}
+.detail .detail_sbs_2 .detail_text .detailprofile .detailprofile_sbs p {
+  font-size: 14px;
+}
+.detail .detail_sbs_2 .detail_text .detailprofile .detailprofile_sbs .setsumei {
+  width: 68px;
+}
+.detail .detail_sbs_2 .detail_text .detailprofile_text_p {
+  padding: 25px 0 20px;
+}
+.detail .detail_sbs_2 .detail_text .detailprofile_text_p p {
+  font-size: 14px;
+}
+.detail .detail_sbs_2 .detail_text .dataillink {
+  font-size: 14px;
+}
+.detail .footer {
+  padding-top: 115px;
+}
+.detail .footer .footer_text p {
+  font-size: 10px;
+  padding-left: 3px;
+  letter-spacing: 0.1px;
+}/*# sourceMappingURL=style.css.map */
